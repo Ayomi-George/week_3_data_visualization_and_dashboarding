@@ -23,3 +23,9 @@ Superstore dataset containing orders, products, customers, and regional data.
 
 ## 🛠 Tool Used
 - Microsoft Power BI
+
+## 📚 Dataset Source
+The Superstore dataset is a publicly available dataset commonly used for learning and practice in data analytics.
+
+Credits: Tableau / public sample dataset
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
